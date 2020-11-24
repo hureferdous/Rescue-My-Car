@@ -1,0 +1,45 @@
+body {
+    font-family: 'Oxygen', arial, sans-serif;
+    font-size: 16px;
+    overflow-x: hidden;
+     }
+     footer{
+        background: #ddd;
+        padding: 20px;
+       text-align: center
+     }
+
+#logo{
+    height:120px;
+    width:250px;
+}
+#datepicker{
+    width: 180px;
+    margin: 0px 20px 20px 20px;
+}
+#datepicker > span:hover{
+      cursor: pointer;
+}
+#quoteBtn{
+    margin-top:150px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    text-align:center;
+    background-color: #ffcc03;
+    color:#0d519f;
+    padding:10px 40px;
+}
+.heading{
+    text-align: left;
+    color:#0d519f;
+    font-size: 23px ;
+    margin-bottom:20px;
+}
+.h2heading{
+    text-align:center;
+    color:#0d519f;
+
+    margin-bottom: 30px;
+}
+
+    
